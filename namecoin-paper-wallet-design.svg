@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="namecoin-merge-mining.svg"
+   sodipodi:docname="namecoin-paper-wallet-design.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -45,7 +45,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="298.36296"
+     inkscape:cx="179.16496"
      inkscape:cy="745.18858"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
@@ -64,7 +64,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Namecoin Paper Wallet</dc:title>
-        <dc:source></dc:source>
+        <dc:source>https://github.com/jonasbits/bitcoin-trophys/blob/master/namecoin-paper-wallet-design.svg</dc:source>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:creator>
@@ -75,9 +75,15 @@
         <dc:relation>http://www.vecteezy.com/ornaments/46026-calligraphy-ornament-vector-pack</dc:relation>
         <dc:contributor>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:contributor>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>namecoin</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2014-03-04</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -99,7 +105,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Background"
+     inkscape:label="Background White"
      style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
